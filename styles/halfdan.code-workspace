@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "../../halfdan"
+	},
+	{
+		"path": "../../AI-generated"
+	},
+	{
+		"path": "../../meget rodet kode mappe/opgave 22:8 json"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "AI-generated"
+  }
+}
