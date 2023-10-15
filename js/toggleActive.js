@@ -13,10 +13,9 @@ toggleButton1.addEventListener("click", function () {
   songsContainer.classList.remove("active");
   awayContainer.classList.remove("active");
 
-  // Gradually fade in the image when "home" is clicked
-  halfdanImage.style.opacity = "0"; // Start with opacity 0
-  halfdanImage.style.transition = "opacity 2s"; // Adjust duration as needed
+  halfdanImage.style.opacity = "0";
+  halfdanImage.style.transition = "opacity 2s";
   setTimeout(() => {
-    halfdanImage.style.opacity = "1"; // End with opacity 1
-  }, 0); // Delay the opacity change to ensure the transition effect
+    halfdanImage.style.opacity = "1";
+  }, 0);
 });
